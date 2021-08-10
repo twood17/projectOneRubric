@@ -1,0 +1,1 @@
+Rubric for the first project.
